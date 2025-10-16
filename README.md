@@ -4,6 +4,10 @@ A comprehensive Excel-based data analysis project designed to visualize and unde
 The dashboard delivers **interactive insights** through charts, KPIs, and filters, helping identify critical patterns in accident data.
 
 ---
+## 📸 Dashboard Preview
+![Road Accident Dashboard](./assets/road-accident-dashboard.png)
+
+---
 
 ## 📊 Project Overview
 The **Road Accident Dashboard** was developed using **Microsoft Excel** to analyze the number and severity of road accidents.  
