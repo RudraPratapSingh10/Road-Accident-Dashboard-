@@ -5,7 +5,7 @@ The dashboard delivers **interactive insights** through charts, KPIs, and filter
 
 ---
 ## 📸 Dashboard Preview
-![Road Accident Dashboard](https://github.com/RudraPratapSingh10/Road-Accident-Dashboard-/blob/main/Dashboard.xlsx)
+[Road Accident Dashboard](https://github.com/RudraPratapSingh10/Road-Accident-Dashboard-/blob/main/Dashboard.xlsx)
 
 ---
 
